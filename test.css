@@ -5,9 +5,24 @@
 .unique{
     color: blue;
     cursor: url("disapprove-g8fa4dae67_640.png"),auto;
-
-
-
-
-    
 }
+.box{
+    padding: 20px;
+    background-color: tomato;
+    width: 150px;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: rgb(8, 46, 129);
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
